@@ -1,0 +1,4 @@
+{
+  "ignore": ["src/*"],
+  "exec": "babel-node ./dist/server.js"
+}
